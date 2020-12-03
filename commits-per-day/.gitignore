@@ -1,0 +1,11 @@
+node_modules/
+bin/
+
+.idea/
+*.iml
+
+.vscode
+
+.DS_Store
+thumbs.db
+*.log
