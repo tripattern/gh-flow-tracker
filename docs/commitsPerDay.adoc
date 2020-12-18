@@ -1,0 +1,9 @@
+= Commits per Day
+
+=== Use Case
+As a Developer
+I want to know how many commits per day I do on average
+so that I can assess if I am working in small increments
+
+=== Test Cases
+* ToDo
