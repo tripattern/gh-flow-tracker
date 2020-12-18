@@ -1,9 +1,16 @@
 = Commits per Day
 
-=== Use Case
+== Use Case
 As a Developer
 I want to know how many commits per day I do on average
 so that I can assess if I am working in small increments
 
-=== Test Cases
-* ToDo
+== Tasks
+* [x] Setup rest api controller with a test
+
+== Test Cases
+|===
+|Given | I have web access to the rest api at https://example.com
+|When | I send a rest GET request to /api/commits-per-day
+|Then | I receive a 200 OK with the number of commits per day
+|===
