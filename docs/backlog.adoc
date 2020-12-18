@@ -1,4 +1,4 @@
 |===
 |Item |Type | Link
-|Commits per Day | Story | commitsPerDay.adoc
+|Commits per Day | Story | <<commitsPerDay.adoc>>
 |===
