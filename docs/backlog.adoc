@@ -2,10 +2,10 @@
 == ACT ITEMS
 
 |===
-|Item |Type | Link
+|Git Log Prefix |Item |Type | Link
 4+|REVIEW
 4+|WIP
-|Git Log Prefix* |Commits per Day | Story | <<commitsPerDay.adoc#Commits per Day>>
+|GHFLW-2 |Commits per Day | Story | <<commitsPerDay.adoc#Commits per Day>>
 4+|READY
 4+|TODO
 |===
@@ -13,10 +13,10 @@
 == DONE
 
 |===
-|Item |Type | Link
+|Git Log Prefix |Item |Type | Link
 4+|STORIES
 4+|TASKS
-|Git Log Prefix |Create Github Repository | Task | NA
+|GHFLW-1|Git Log Prefix |Create Github Repository | Task | NA
 4+|BUGS
 |===
 
