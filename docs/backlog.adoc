@@ -1,5 +1,5 @@
 |===
 |Item |Type | Link
-.+2|WIP
+.2+|WIP
 |Commits per Day | Story | <<commitsPerDay.adoc#Commits per Day>>
 |===
