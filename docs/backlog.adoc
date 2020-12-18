@@ -16,7 +16,7 @@
 |Git Log Prefix |Item |Type | Link
 4+|STORIES
 4+|TASKS
-|GHFLW-1|Git Log Prefix |Create Github Repository | Task | NA
+|GHFLW-1|Create Github Repository | Task | NA
 4+|BUGS
 |===
 
