@@ -1,0 +1,4 @@
+|===
+|Item |Type | Link
+|Commits per Day | Story | commitsPerDay.adoc
+|===
