@@ -3,21 +3,21 @@
 
 |===
 |Item |Type | Link
-3+|REVIEW
-3+|WIP
+4+|REVIEW
+4+|WIP
 |Git Log Prefix* |Commits per Day | Story | <<commitsPerDay.adoc#Commits per Day>>
-3+|READY
-3+|TODO
+4+|READY
+4+|TODO
 |===
 
 == DONE
 
 |===
 |Item |Type | Link
-3+|STORIES
-3+|TASKS
+4+|STORIES
+4+|TASKS
 |Git Log Prefix |Create Github Repository | Task | NA
-3+|BUGS
+4+|BUGS
 |===
 
 == Notes
