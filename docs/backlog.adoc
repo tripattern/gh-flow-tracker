@@ -5,7 +5,7 @@
 |Item |Type | Link
 3+|REVIEW
 3+|WIP
-|Commits per Day | Story | <<commitsPerDay.adoc#Commits per Day>>
+|Git Log Prefix* |Commits per Day | Story | <<commitsPerDay.adoc#Commits per Day>>
 3+|READY
 3+|TODO
 |===
@@ -16,6 +16,17 @@
 |Item |Type | Link
 3+|STORIES
 3+|TASKS
-|Create Github Repository | Task | NA
+|Git Log Prefix |Create Github Repository | Task | NA
 3+|BUGS
 |===
+
+== Notes
+=== Git Log Prefix
+* You can use this to search through the logs to see associated commits
+----
+git log --all --grep "GHFLW-12213:"
+git log --all --grep "GHFLW-.*" # regex
+git log --all --grep "GHFLW-12213:" -i # case insensitive
+----
+* https://git-scm.com/docs/git-log#Documentation/git-log.txt---grepltpatterngt[Git Documentation]
+* https://en.wikipedia.org/wiki/Regular_expression[Regular Expressions Format]
