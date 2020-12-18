@@ -1,5 +1,6 @@
 = PBI Management
 == ACT ITEMS
+
 |===
 |Item |Type | Link
 3+|REVIEW
@@ -10,6 +11,7 @@
 |===
 
 == DONE
+
 |===
 |Item |Type | Link
 3+|STORIES
